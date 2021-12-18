@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Ajuser bot working aan😎!')
+            chalk.green.bold('✅ 𝐀𝐁𝐇𝐈 𝐒𝐄𝐑 bot working aan😎!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
