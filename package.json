@@ -1,7 +1,7 @@
 {
-  "name": "Ajuser",
+  "name": "𝐀𝐁𝐇𝐈 𝐒𝐄𝐑",
   "version": "7.3.6",
-  "description": "Ajuser is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
+  "description": "𝐀𝐁𝐇𝐈 𝐒𝐄𝐑 is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
   "main": "./Ajuser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -17,7 +17,7 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "aju",
+  "author": "𝐀𝐁𝐇𝐈 𝐒𝐄𝐑",
   "developer": "@aju001 / @aju001",
   "license": "GPL-3.0-or-later",
   "bugs": {
